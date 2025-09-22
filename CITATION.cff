@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this research, dataset, or visual materials, please cite this repository and credit the Repelling Magnetic Instrument (RMI) patent GB2614887."
+title: "AMC Governing Behaviour — Foundational Dynamics and Cross-Link to the AMC Law Framework"
+version: "2.2"
+doi: "10.5281/zenodo.17167159"
+authors:
+  - family-names: "ActiveKinetic1"
+    name: "Active Kinetic 1 Research Team"
+    affiliation: "Active Kinetic 1"
+date-released: "2025-09-22"
+repository-code: "https://github.com/ActiveKinetic1/amc-timewave-cradle"
+license: "CC-BY-NC-4.0"
+contact:
+  - email: "info@ak1.co"
+keywords:
+  - AMC
+  - Active Magnetic Cradle
+  - RMI
+  - oscillation
+  - wavelet
+  - timewave
+  - field coherence
+  - physics
+  - non-rotary energy
+  - energy transfer
+  - magnetomechanics
+  - scientific dataset
+  - structured decay
+  - open science
+note: "Protected by UK patent GB2614887 — Repelling Magnetic Instrument (RMI). Use of this work in derivative engineering, commercial hardware, or software builds requires separate license or agreement."
