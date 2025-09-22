@@ -85,7 +85,7 @@ This means:
 - ❌ Commercial use is **not permitted** without explicit written permission
 - 🧠 You must give proper credit to *Active Kinetic 1* and the original research  
   (AMC Governing Behaviour, DOI: [10.5281/zenodo.17167159](https://doi.org/10.5281/zenodo.17167159))
-- 📬 For commercial licensing or research collaborations, contact: [contact@activekinetic.one](mailto:contact@activekinetic.one)
+- 📬 For commercial licensing or research collaborations, contact: [info@ak1.co](mailto:info@ak1.co)
 
 🔗 Full license details: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
