@@ -69,6 +69,11 @@ Citation [29] within the document refers to Version 2.1; Version 2.2 supersedes 
 
 ---
 
+## 🔐 Patent
+
+⚠️ Note: This repository references and supports the patented Repelling Magnetic Instrument (RMI) system (UK Patent GB2614887). Commercial implementations may require a separate patent license.
+---
+
 ## 📄 License
 
 All documentation in this repository is licensed under the  
