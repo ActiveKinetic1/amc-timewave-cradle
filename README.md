@@ -4,8 +4,9 @@
 
 This repository contains the official version-controlled files, peer review discussions, and supplementary material for the research paper:
 
-**“Active Magnetic Cradle Governing Behaviour — Foundational Dynamics and Cross-Link to the AMC Law Framework”**  
-🔗 [Zenodo DOI: 10.5281/zenodo.17167159](https://doi.org/10.5281/zenodo.17167159)
+“Active Magnetic Cradle Governing Behaviour — Foundational Dynamics and Cross-Link to the AMC Law Framework”
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17184528.svg)](https://doi.org/10.5281/zenodo.17184528)
 
 ---
 
@@ -63,9 +64,9 @@ to contribute to the evolving understanding of AMC dynamics and timewave physics
 
 This repository is formally archived on Zenodo:
 
-📘 [DOI: https://doi.org/10.5281/zenodo.17167159](https://doi.org/10.5281/zenodo.17167159)
+📘 [DOI: https://doi.org/10.5281/zenodo.17184528](https://doi.org/10.5281/zenodo.17184528)
 
-Citation [29] within the document refers to Version 2.1; Version 2.2 supersedes it with corrected formatting.
+Citation [29] within the document refers to Version 2.1; Version 2.2.1 supersedes it with a LaTeX formatting fix and full content restoration.
 
 ---
 
