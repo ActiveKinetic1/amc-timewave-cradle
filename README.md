@@ -1,18 +1,18 @@
-# amc-timewave-cradle
+# AMC Timewave Cradle
 
 **Uncovering new oscillation physics through field-coherent timewaves in AMC systems.**
 
 This repository contains the official version-controlled files, peer review discussions, and supplementary material for the research paper:
 
-“Active Magnetic Cradle Governing Behaviour — Foundational Dynamics and Cross-Link to the AMC Law Framework”
+[“Active Magnetic Cradle Governing Behaviour — Foundational Dynamics and Cross-Link to the AMC Law Framework”](AMC_Governing_Behaviour.pdf)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17184528.svg)](https://doi.org/10.5281/zenodo.17184528)
+Zenodo Peer Review Bundle LaTex codeed, figures and datasets for each case study [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17184528.svg)](https://doi.org/10.5281/zenodo.17184528)
 
 ---
 
 ## 📄 Summary
 
-This study establishes the governing behaviour of the **Active Magnetic Cradle (AMC)**, a macroscopic oscillator system that exhibits reproducible deviations from classical mechanics.
+This study establishes the governing behaviour of the [**Active Magnetic Cradle (AMC)**](AMC_Governing_Behaviour.pdf), a macroscopic oscillator system that exhibits reproducible deviations from classical mechanics.
 
 Across 15 case studies, AMC systems demonstrate:
 - Structured energy handovers
@@ -44,7 +44,7 @@ While not part of the original Zenodo publication vocabulary, “timewave” ser
 
 | File/Folder | Description |
 |-------------|-------------|
-| `AMC_Governing_Behaviour.pdf` | Final research paper (Version 2.2, LaTeX formatted) |
+| `AMC_Governing_Behaviour.pdf` | [Final research paper (Version 2.2.1, LaTeX formatted)](AMC_Governing_Behaviour.pdf) |
 | `AMC.tex` | Full LaTeX source code for the paper |
 | `data/` | (Optional) Tracker datasets or simulation files |
 | `figures/` | (Optional) Experimental diagrams, overlays, and graphs |
